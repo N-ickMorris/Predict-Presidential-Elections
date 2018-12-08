@@ -505,7 +505,7 @@ confusion.glm = function(model, name = NULL, des.mat = NULL, response = NULL, cu
 # check work directory
 
 getwd()
-setwd("F:/Documents/Working/Forecasting Methods/Independent Study/US President Elections")
+setwd("F:/ ... /US President Elections")
 
 # import the data
 
