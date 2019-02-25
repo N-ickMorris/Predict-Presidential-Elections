@@ -1,0 +1,34 @@
+- country gni/gdp
+- state gni
+- voter gni
+- laws made/repealed
+- executive orders made/repealed
+- laws by veto
+- senate
+- congress
+- approval ratings of last president
+- wars
+- ngos
+- international relations
+- immigration and refugee flow
+- income gap of ppl
+- bills introduced v. bills passed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
